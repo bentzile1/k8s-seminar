@@ -1,0 +1,1 @@
+#1 we create yaml file for the pod deployment [nginx-pod.yaml]
