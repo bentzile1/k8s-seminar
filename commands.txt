@@ -8,4 +8,4 @@
 
 #3 $ kubectl create namespace apx-x998-ben
 
-#4 
+#4 kubectl get pods -o json > /tmp/nodes-ben
