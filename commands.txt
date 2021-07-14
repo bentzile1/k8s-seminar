@@ -1,1 +1,11 @@
-#1 we create yaml file for the pod deployment [nginx-pod.yaml]
+#1 create yaml file for the pod deployment [nginx-pod.yaml] once finish run commnd
+# $ kubectl create -f nginx-pod.yaml
+# make sure pod is running : $ kubectl get pods ; $ kubectl describe pod nginx-pod-ben
+
+#2 create yaml file for the pod deployment [messaging-pod.yaml]
+# $ kubectl create -f messaging-pod.yaml
+# make sure pod is running : $ kubectl get pods ; $ kubectl describe pod messaging
+
+#3 $ kubectl create namespace apx-x998-ben
+
+#4 
